@@ -7,6 +7,7 @@ such that the container contains the most water.
 Note: You may not slant the container and n is at least 2.
 '''
 
+
 class Solution:
     def maxArea(self, height):
         """
@@ -15,25 +16,31 @@ class Solution:
         """
         MAX = 0
 
-        x = len(height) - 1
+        x = 0
 
-        y = 0
+        y = len(height) - 1
 
         while x != y:
-        	if height[x] > height[y]:
-        		area = height[y] * (x - y)
-        		y += 1
-        	else:
-        		area = height[x] * (x - y)
+            for i in range(x + 1, len(height)):
+                if height[x] > height[i]:
+                    area = height[i] * (i - x)
+                else:
+                    area = height[x] * (i - x)
+                MAX = max(MAX, area)
+            # if height[x] > height[y]:
+            #     area = height[y] * (y - x)
+            # else:
+            #     area = height[x] * (y - x)
 
-        	MAX = max(MAX, area)
-        
+            # MAX = max(MAX, area)
+            x += 1
+
         return MAX
 
 
 Run = Solution()
 
-height = [1, 2]
+height = [2, 3, 4, 5, 18, 17, 6]
 
 result = Run.maxArea(height)
 
