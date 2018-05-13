@@ -6,7 +6,6 @@ such that the container contains the most water.
 
 Note: You may not slant the container and n is at least 2.
 '''
-import numpy as np
 
 class Solution:
     def maxArea(self, height):
@@ -19,22 +18,16 @@ class Solution:
         x = 0
 
         y = len(height) - 1
-        height = np.array(height)
 
         while x != y:
-            i = x + 1
-            y_arr = height[i:].copy()
-
-            y_arr[(y_arr>height[x])] = height[x]
-
-            length = np.array(range(len(y_arr))) + 1
-
-            area = y_arr * length
-
-            area = int(max(area))
-
+            if height[x] > height[y]:
+                area = (y - x) * height[y]
+                y -= 1
+            else:
+                area = (y - x) * height[x]
+                x += 1
             MAX = max(MAX, area)
-            x += 1
+            
 
         return MAX
 
