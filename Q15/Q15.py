@@ -9,7 +9,6 @@ import numpy as np
 # 		:rtype: List[List[int]]
 # 		"""
 # 		zero_list = []
-# 		nums.sort()
 # 		for x in itertools.combinations(nums, 3):
 # 			if np.sum(x) == 0:
 # 				# x = sorted(x)
@@ -30,7 +29,6 @@ import numpy as np
 # 			if sum(nums) == 0:
 # 				return [nums]
 # 		else:
-# 			nums.sort()
 # 			res = []
 # 			for i in range(len(nums) - 2):
 # 				j = i + 1
@@ -49,27 +47,32 @@ import numpy as np
 
 # Third Method
 class Solution:
-    def threeSum(self, nums):
-        count={} # number: count
-        for i in nums:
-            count[i] = count.get(i,0) + 1
+	def threeSum(self, nums):
+		"""
+		:type nums: List[int]
+		:rtype: List[List[int]]
+		"""
+		count = {}
+		for i in nums:
+			count[i] = count.get(i, 0) + 1
 
-        ans = []
-        nsort = sorted(count.keys())
+		res = []
 
-        for i in range(len(nsort)):
-            n1 = nsort[i]
-            count[n1] -= 1
-            for j in range(i,len(nsort)):
-                n2 = nsort[j]
-                if count[n2] >= 1:
-                    count[n2] -= 1
-                    n3 = - (n1 + n2)
-                    if n3>=n2 and n3 in count and count[n3]>=1:
-                        ans.append([n1, n2, n3])
-                    count[n2]+=1
-            count[n1]+=1
-        return ans
+		nsort = sorted(count.keys())
+
+		for i in range(len(nsort)):
+			n1 = nsort[i]
+			count[n1] -= 1
+			for j in range(i, len(nsort)):
+				n2 = nsort[j]
+				if count[n2] != 0:
+					count[n2] -= 1
+					n3 = -(n1 + n2)
+					if n3>=n2 and n3 in count and count[n3] != 0:
+						res.append([n1, n2, n3])
+					count[n2] += 1
+			count[n1] += 1
+		return res
 
 
 
