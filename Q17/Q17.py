@@ -10,16 +10,21 @@ class Solution:
             '4': 'ghi',
             '5': 'jkl',
             '6': 'mno',
-            '7': 'pdrs',
+            '7': 'pqrs',
             '8': 'tuv',
             '9': 'wxyz'
         }
-        prev = dict_digits[digits[0]]
-        i = 1
-        while i < len(digits):
-            prev = self.append_fun(prev, dict_digits[digits[i]])
-            i += 1
-        return prev
+        if len(digits) == 0:
+            return []
+        elif len(digits) == 1:
+            return list(dict_digits[digits])
+        else:
+            prev = dict_digits[digits[0]]
+            i = 1
+            while i < len(digits):
+                prev = self.append_fun(prev, dict_digits[digits[i]])
+                i += 1
+            return prev
 
     def append_fun(self, previous, current):
         res = []
