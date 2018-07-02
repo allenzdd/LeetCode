@@ -17,7 +17,7 @@ class Solution:
                 # print(res_temp)
                 # res_temp.sort()
                 [t.sort() for t in res_temp]
-                [res.append(t) for t in res_temp]
+                [res.append(t) for t in res_temp if t not in res]
         return res
 
     def threeSumClosest(self, nums, target):
@@ -31,7 +31,8 @@ class Solution:
                 temp = nums[i] + nums[j] + nums[k]
                 if temp == target:
                     res.append([nums[i], nums[j], nums[k]])
-                    break
+                    j += 1
+                    k -= 1
                 elif temp < target:
                     j += 1
                 elif temp > target:
@@ -39,7 +40,10 @@ class Solution:
         return res
 
 
-nums = [1, 0, -1, 0, -2, 2]
+# nums = [1, 0, -1, 0, -2, 2]
+# nums = [-3, -2, -1, 0, 0, 1, 2, 3]
+nums = [-5, -4, -3, -2, -1, 0, 0, 1, 2, 3, 4, 5]
+
 target = 0
 res = Solution().fourSum(nums, target)
 print(res)
