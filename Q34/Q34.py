@@ -19,7 +19,7 @@ class Solution:
                         right += 1
                     else:
                         break
-                return left, right
+                return [left, right]
             elif nums[left] <= target < nums[mid]:
                 right = mid - 1
             else:
