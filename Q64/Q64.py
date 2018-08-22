@@ -19,8 +19,8 @@ class Solution:
 
         for row in range(1, m):
             for col in range(1, n):
-                opt[row][col] = min(opt[row - 1][col], opt[row]
-                                    [col - 1]) + grid[row][col]
+                opt[row][col] = min(opt[row - 1][col],
+                                    opt[row][col - 1]) + grid[row][col]
 
         return opt[-1][-1]
 
