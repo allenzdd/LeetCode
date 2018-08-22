@@ -8,7 +8,7 @@ class Solution:
         m = len(word1)
         n = len(word2)
 
-        opt = [['inf' for _ in range(n + 1)] for _ in range(m + 1)]
+        opt = [[float('inf') for _ in range(n + 1)] for _ in range(m + 1)]
 
         for i in range(m + 1):
             for j in range(n + 1):
