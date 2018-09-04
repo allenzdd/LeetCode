@@ -4,6 +4,7 @@
 
 * [DFS](https://github.com/allenzdd/LeetCode#DFS)
 * [DP](https://github.com/allenzdd/LeetCode#DP)
+* [HashMap](https://github.com/allenzdd/LeetCode#HashMap)
 
 ### DFS
 
@@ -18,13 +19,24 @@
 
 ### DP
 
-|  #   | Title | Solution | Note |
-| :--: | :---: | :------: | :--: |
-|      |       |          |      |
-|      |       |          |      |
-|      |       |          |      |
-|      |       |          |      |
-|      |       |          |      |
-|      |       |          |      |
+|  #   |                          Title                          |         Solution          | Note |
+| :--: | :-----------------------------------------------------: | :-----------------------: | :--: |
+| 494  | [Target Sum](https://leetcode.com/problems/target-sum/) | [Python3](./Q494/Q494.py) |      |
+|      |                                                         |                           |      |
+|      |                                                         |                           |      |
+|      |                                                         |                           |      |
+|      |                                                         |                           |      |
+|      |                                                         |                           |      |
+
+### HashMap
+
+|  #   |                          Title                          |         Solution          | Note |
+| :--: | :-----------------------------------------------------: | :-----------------------: | :--: |
+| 494  | [Target Sum](https://leetcode.com/problems/target-sum/) | [Python3](./Q494/Q494.py) |      |
+|      |                                                         |                           |      |
+|      |                                                         |                           |      |
+|      |                                                         |                           |      |
+|      |                                                         |                           |      |
+|      |                                                         |                           |      |
 
 ### 
