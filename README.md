@@ -20,15 +20,16 @@
 
 ### DP
 
-|  #   |                          Title                          |            Solution            | Note |
-| :--: | :-----------------------------------------------------: | :----------------------------: | :--: |
-| 139  | [Word Break](https://leetcode.com/problems/word-break/) | [Python3](./Code/Q139/Q139.py) |      |
-| 494  | [Target Sum](https://leetcode.com/problems/target-sum/) | [Python3](./Code/Q494/Q494.py) |      |
-|      |                                                         |                                |      |
-|      |                                                         |                                |      |
-|      |                                                         |                                |      |
-|      |                                                         |                                |      |
-|      |                                                         |                                |      |
+|  #   |                            Title                             |            Solution            | Note |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
+| 139  |   [Word Break](https://leetcode.com/problems/word-break/)    | [Python3](./Code/Q139/Q139.py) |      |
+| 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python3](./Code/Q152/Q152.py) |      |
+| 494  |   [Target Sum](https://leetcode.com/problems/target-sum/)    | [Python3](./Code/Q494/Q494.py) |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
 
 ### HashMap
 
