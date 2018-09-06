@@ -5,8 +5,9 @@
 * [DFS](https://github.com/allenzdd/LeetCode#DFS)
 * [DP](https://github.com/allenzdd/LeetCode#DP)
 * [HashMap](https://github.com/allenzdd/LeetCode#HashMap)
+* [Recursion](https://github.com/allenzdd/LeetCode#Recursion)
 
-## DFS
+### DFS
 
 |  #   |                            Title                             |            Solution            | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
@@ -17,7 +18,7 @@
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
 
-## DP
+### DP
 
 |  #   |                          Title                          |            Solution            | Note |
 | :--: | :-----------------------------------------------------: | :----------------------------: | :--: |
@@ -29,7 +30,7 @@
 |      |                                                         |                                |      |
 |      |                                                         |                                |      |
 
-## HashMap
+### HashMap
 
 |  #   |                          Title                          |            Solution            | Note |
 | :--: | :-----------------------------------------------------: | :----------------------------: | :--: |
