@@ -6,6 +6,10 @@
 * [DP](https://github.com/allenzdd/LeetCode#DP)
 * [HashMap](https://github.com/allenzdd/LeetCode#HashMap)
 * [Recursion](https://github.com/allenzdd/LeetCode#Recursion)
+* [Bit Manipulation](https://github.com/allenzdd/LeetCode#BitManipulation)
+* [Sliding Windows](https://github.com/allenzdd/LeetCode#SlidingWindows)
+* [Array](https://github.com/allenzdd/LeetCode#Array)
+* [Search](https://github.com/allenzdd/LeetCode#Search)
 
 ### DFS
 
@@ -55,7 +59,7 @@
 |      |       |          |      |
 |      |       |          |      |
 
-###  Bit Manipulation
+###  BitManipulation
 
 |  #   |                            Title                             |            Solution            | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
@@ -66,7 +70,7 @@
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
 
-###   Sliding Windows
+###   SlidingWindows
 
 |  #   |                           Title                            |            Solution            | Note |
 | :--: | :--------------------------------------------------------: | :----------------------------: | :--: |
@@ -77,4 +81,26 @@
 |      |                                                            |                                |      |
 |      |                                                            |                                |      |
 
-### 
+### Array
+
+|  #   |                            Title                             |            Solution            | Note |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
+| 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python3](./Code/Q239/Q239.py) |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+
+###  Search
+
+|  #   |                            Title                             |            Solution            | Note |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
+| 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python3](./Code/Q240/Q240.py) |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+
+###  
