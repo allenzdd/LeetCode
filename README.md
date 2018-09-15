@@ -35,8 +35,6 @@
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
 
-### 
-
 ### DP
 
 |  #   |                            Title                             |            Solution            | Note |
@@ -46,6 +44,7 @@
 | 198  |  [House Robber](https://leetcode.com/problems/house-robber)  | [Python3](./Code/Q198/Q198.py) |      |
 | 221  | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Python3](./Code/Q221/Q221.py) |      |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python3](./Code/Q309/Q309.py) |      |
+| 312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Python3](./Code/Q312/Q312.py) |      |
 | 494  |   [Target Sum](https://leetcode.com/problems/target-sum/)    | [Python3](./Code/Q494/Q494.py) |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
