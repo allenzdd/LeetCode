@@ -13,6 +13,8 @@
 * [Search](https://github.com/allenzdd/LeetCode#search)
 * [Math](https://github.com/allenzdd/LeetCode#math)
 * [Stack](https://github.com/allenzdd/LeetCode#stack)
+* [Sort](https://github.com/allenzdd/LeetCode#sort)
+* [Others](https://github.com/allenzdd/LeetCode#others)
 
 ### DFS
 
@@ -148,4 +150,13 @@
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
 
-###  
+###  Others
+
+|  #   |                            Title                             |            Solution            | Note  |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :---: |
+| 438  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Python3](./Code/Q438/Q438.py) | AscII |
+|      |                                                              |                                |       |
+|      |                                                              |                                |       |
+|      |                                                              |                                |       |
+
+### 
