@@ -47,6 +47,7 @@
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python3](./Code/Q309/Q309.py) |      |
 | 312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Python3](./Code/Q312/Q312.py) |      |
 | 322  |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Python3](./Code/Q312/Q312.py) |      |
+| 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python3](./Code/Q416/Q416.py) |      |
 | 494  |   [Target Sum](https://leetcode.com/problems/target-sum/)    | [Python3](./Code/Q494/Q494.py) |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
@@ -59,6 +60,7 @@
 |  #   |                            Title                             |            Solution            | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Python3](./Code/Q347/Q347.py) |      |
+| 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python3](./Code/Q416/Q416.py) |      |
 | 494  |   [Target Sum](https://leetcode.com/problems/target-sum/)    | [Python3](./Code/Q494/Q494.py) |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
