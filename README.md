@@ -137,4 +137,13 @@
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
 
+### Sort
+
+|  #   |                            Title                             |            Solution            | Note |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
+| 406  | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Python3](./Code/Q406/Q406.py) |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+
 ###  
