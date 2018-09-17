@@ -2,16 +2,17 @@
 
 ## Alogrithm
 
-* [DFS](https://github.com/allenzdd/LeetCode#DFS)
-* [BFS](https://github.com/allenzdd/LeetCode#BFS)
-* [DP](https://github.com/allenzdd/LeetCode#DP)
-* [HashMap](https://github.com/allenzdd/LeetCode#HashMap)
-* [Recursion](https://github.com/allenzdd/LeetCode#Recursion)
-* [Bit Manipulation](https://github.com/allenzdd/LeetCode#BitManipulation)
-* [Sliding Windows](https://github.com/allenzdd/LeetCode#SlidingWindows)
-* [Array](https://github.com/allenzdd/LeetCode#Array)
-* [Search](https://github.com/allenzdd/LeetCode#Search)
-* [Math](https://github.com/allenzdd/LeetCode#Math)
+* [DFS](https://github.com/allenzdd/LeetCode#dfs)
+* [BFS](https://github.com/allenzdd/LeetCode#bfs)
+* [DP](https://github.com/allenzdd/LeetCode#dp)
+* [HashMap](https://github.com/allenzdd/LeetCode#hashmap)
+* [Recursion](https://github.com/allenzdd/LeetCode#recursion)
+* [Bit Manipulation](https://github.com/allenzdd/LeetCode#bitmanipulation)
+* [Sliding Windows](https://github.com/allenzdd/LeetCode#slidingwindows)
+* [Array](https://github.com/allenzdd/LeetCode#array)
+* [Search](https://github.com/allenzdd/LeetCode#search)
+* [Math](https://github.com/allenzdd/LeetCode#math)
+* [Stack](https://github.com/allenzdd/LeetCode#stack)
 
 ### DFS
 
@@ -55,14 +56,13 @@
 
 ### HashMap
 
-|  #   |                          Title                          |            Solution            | Note |
-| :--: | :-----------------------------------------------------: | :----------------------------: | :--: |
-| 494  | [Target Sum](https://leetcode.com/problems/target-sum/) | [Python3](./Code/Q494/Q494.py) |      |
-|      |                                                         |                                |      |
-|      |                                                         |                                |      |
-|      |                                                         |                                |      |
-|      |                                                         |                                |      |
-|      |                                                         |                                |      |
+|  #   |                            Title                             |            Solution            | Note |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
+| 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Python3](./Code/Q347/Q347.py) |      |
+| 494  |   [Target Sum](https://leetcode.com/problems/target-sum/)    | [Python3](./Code/Q494/Q494.py) |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
 
 ### Recursion
 
@@ -124,6 +124,15 @@
 |  #   |                            Title                             |            Solution            | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python3](./Code/Q287/Q287.py) |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+|      |                                                              |                                |      |
+
+###  Stack
+
+|  #   |                            Title                             |            Solution            | Note |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
+| 394  | [Decode String](https://leetcode.com/problems/decode-string/) | [Python3](./Code/Q394/Q394.py) |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
