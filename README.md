@@ -64,7 +64,7 @@
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Python3](./Code/Q347/Q347.py) |      |
 | 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python3](./Code/Q416/Q416.py) |      |
 | 494  |   [Target Sum](https://leetcode.com/problems/target-sum/)    | [Python3](./Code/Q494/Q494.py) |      |
-|      |                                                              |                                |      |
+| 560  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Python3](./Code/Q560/Q560.py) |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
 
@@ -155,7 +155,7 @@
 |  #   |                            Title                             |            Solution            | Note  |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :---: |
 | 438  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Python3](./Code/Q438/Q438.py) | AscII |
-|      |                                                              |                                |       |
+| 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python3](./Code/Q448/Q448.py) | Array |
 |      |                                                              |                                |       |
 |      |                                                              |                                |       |
 
