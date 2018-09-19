@@ -114,14 +114,15 @@
 
 ###  Search
 
-|  #   |                            Title                             |            Solution            | Note |
-| :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
-| 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python3](./Code/Q240/Q240.py) |      |
-| 283  |  [Move Zeroes](https://leetcode.com/problems/move-zeroes/)   | [Python3](./Code/Q283/Q283.py) |      |
-| 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python3](./Code/Q287/Q287.py) |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
+|  #   |                            Title                             |            Solution            |     Note      |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :-----------: |
+|  69  |       [Sqrt(x)](https://leetcode.com/problems/sqrtx/)        |  [Python3](./Code/Q69/Q69.py)  | Binary Search |
+| 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python3](./Code/Q240/Q240.py) |               |
+| 283  |  [Move Zeroes](https://leetcode.com/problems/move-zeroes/)   | [Python3](./Code/Q283/Q283.py) |               |
+| 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python3](./Code/Q287/Q287.py) |               |
+|      |                                                              |                                |               |
+|      |                                                              |                                |               |
+|      |                                                              |                                |               |
 
 ### Math
 
