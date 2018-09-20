@@ -148,7 +148,7 @@
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
 | 406  | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Python3](./Code/Q406/Q406.py) |      |
 | 581  | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Python3](./Code/Q581/Q581.py) |      |
-|      |                                                              |                                |      |
+| 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python3](./Code/Q647/Q647.py) | Sort |
 |      |                                                              |                                |      |
 
 ###  Others
