@@ -65,7 +65,7 @@
 | 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python3](./Code/Q416/Q416.py) |      |
 | 494  |   [Target Sum](https://leetcode.com/problems/target-sum/)    | [Python3](./Code/Q494/Q494.py) |      |
 | 560  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Python3](./Code/Q560/Q560.py) |      |
-|      |                                                              |                                |      |
+| 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](./Code/Q621/Q621.py) |      |
 |      |                                                              |                                |      |
 
 ### Recursion
@@ -129,7 +129,7 @@
 |  #   |                            Title                             |            Solution            | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python3](./Code/Q287/Q287.py) |      |
-|      |                                                              |                                |      |
+| 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](./Code/Q621/Q621.py) |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
 
