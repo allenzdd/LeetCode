@@ -27,9 +27,6 @@ class Solution:
 
 
 
-
-
-
 nums = [1, 2, 3, 4]
 res = Solution().permute(nums)
 print(res)
