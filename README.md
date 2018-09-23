@@ -7,6 +7,7 @@
 * [DP](https://github.com/allenzdd/LeetCode#dp)
 * [HashMap](https://github.com/allenzdd/LeetCode#hashmap)
 * [Recursion](https://github.com/allenzdd/LeetCode#recursion)
+* [BackTrack](https://github.com/allenzdd/LeetCode#backtrack)
 * [Bit Manipulation](https://github.com/allenzdd/LeetCode#bitmanipulation)
 * [Sliding Windows](https://github.com/allenzdd/LeetCode#slidingwindows)
 * [Array](https://github.com/allenzdd/LeetCode#array)
@@ -42,22 +43,23 @@
 
 ### DP
 
-|  #   |                            Title                             |            Solution            | Note |
-| :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
-| 139  |   [Word Break](https://leetcode.com/problems/word-break/)    | [Python3](./Code/Q139/Q139.py) |      |
-| 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [Python3](./Code/Q152/Q152.py) |      |
-| 198  |  [House Robber](https://leetcode.com/problems/house-robber)  | [Python3](./Code/Q198/Q198.py) |      |
-| 221  | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Python3](./Code/Q221/Q221.py) |      |
-| 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python3](./Code/Q309/Q309.py) |      |
-| 312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Python3](./Code/Q312/Q312.py) |      |
-| 322  |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Python3](./Code/Q312/Q312.py) |      |
-| 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python3](./Code/Q416/Q416.py) |      |
-| 494  |   [Target Sum](https://leetcode.com/problems/target-sum/)    | [Python3](./Code/Q494/Q494.py) |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
+|  #   |                            Title                             |            Solution            | Difficulty | Note |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :--: |
+| 139  |   [Word Break](https://leetcode.com/problems/word-break/)    | [Python3](./Code/Q139/Q139.py) |            |      |
+| 140  | [Word Break II](https://leetcode.com/problems/word-break-ii) | [Python3](./Code/Q140/Q140.py) |    Hard    |      |
+| 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [Python3](./Code/Q152/Q152.py) |            |      |
+| 198  |  [House Robber](https://leetcode.com/problems/house-robber)  | [Python3](./Code/Q198/Q198.py) |            |      |
+| 221  | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Python3](./Code/Q221/Q221.py) |            |      |
+| 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python3](./Code/Q309/Q309.py) |            |      |
+| 312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Python3](./Code/Q312/Q312.py) |            |      |
+| 322  |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Python3](./Code/Q312/Q312.py) |            |      |
+| 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python3](./Code/Q416/Q416.py) |            |      |
+| 494  |   [Target Sum](https://leetcode.com/problems/target-sum/)    | [Python3](./Code/Q494/Q494.py) |            |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
 
 ### HashMap
 
@@ -80,6 +82,17 @@
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
+
+### BackTrack
+
+|  #   |                            Title                             |            Solution            | Difficulty | Note |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :--: |
+| 140  | [Word Break II](https://leetcode.com/problems/word-break-ii) | [Python3](./Code/Q140/Q140.py) |    Hard    |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
 
 ###  BitManipulation
 
