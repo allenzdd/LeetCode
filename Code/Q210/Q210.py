@@ -1,3 +1,5 @@
+# DFS
+# Stack
 class Solution:
     def findOrder(self, numCourses, prerequisites):
         """
@@ -15,16 +17,26 @@ class Solution:
 
         for i in range(numCourses):
             if not self.visited[i]:
-                if self.dfs(graph, i, numCourses):
-                    return self.res
+                if self.dfs(graph, i):
+                    # if cycle, return []
+                    return []
+        return self.res[::-1]
         
-    def dfs(self, graph, i, numCourses):
+    def dfs(self, graph, i):
         self.stack[i] = True
         self.visited[i] = True
-        self.res.append(i)
+        # search whether exist cycle, if exist, return []
         for j in graph[i]:
             if not self.visited[j]:
-                self.dfs(graph, j, numCourses)
+                if self.dfs(graph, j):
+                    return True
+            elif self.stack[j]:
+                return True
+        # restart the stack
+        self.stack[i] = False
+        # add the node descend
+        self.res.append(i)
+        return False
         
 
 numCourses = 4

@@ -19,16 +19,17 @@
 
 ### DFS
 
-|  #   |                            Title                             |            Solution            | Note |
-| :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
-|  46  | [Permutations](https://leetcode.com/problems/permutations/)  |  [Python3](./Code/Q46/Q46.py)  |      |
-| 130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](./Code/Q130/Q130.py) |      |
-| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3](./Code/Q200/Q200.py) |      |
-| 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3](./Code/Q207/Q207.py) |      |
-| 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](./Code/Q301/Q301.py) |      |
-| 322  |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Python3](./Code/Q312/Q312.py) |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
+|  #   |                            Title                             |            Solution            |       Note        |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :---------------: |
+|  46  | [Permutations](https://leetcode.com/problems/permutations/)  |  [Python3](./Code/Q46/Q46.py)  |                   |
+| 130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](./Code/Q130/Q130.py) |                   |
+| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3](./Code/Q200/Q200.py) |                   |
+| 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3](./Code/Q207/Q207.py) |                   |
+| 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python3](./Code/Q210/Q210.py) | topological order |
+| 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](./Code/Q301/Q301.py) |                   |
+| 322  |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Python3](./Code/Q312/Q312.py) |                   |
+|      |                                                              |                                |                   |
+|      |                                                              |                                |                   |
 
 ### BFS
 
@@ -151,12 +152,13 @@
 
 ###  Stack
 
-|  #   |                            Title                             |            Solution            | Note |
-| :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
-| 394  | [Decode String](https://leetcode.com/problems/decode-string/) | [Python3](./Code/Q394/Q394.py) |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
+|  #   |                            Title                             |            Solution            |       Note        |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :---------------: |
+| 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python3](./Code/Q210/Q210.py) | topological order |
+| 394  | [Decode String](https://leetcode.com/problems/decode-string/) | [Python3](./Code/Q394/Q394.py) |                   |
+|      |                                                              |                                |                   |
+|      |                                                              |                                |                   |
+|      |                                                              |                                |                   |
 
 ### Sort
 
