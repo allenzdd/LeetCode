@@ -73,6 +73,17 @@
 | 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](./Code/Q621/Q621.py) |      |
 |      |                                                              |                                |      |
 
+### Tree
+
+|  #   |                            Title                             |            Solution            | Difficulty | Note |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :--: |
+| 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python3](./Code/Q208/Q208.py) |   Medium   |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
+
 ### Recursion
 
 |  #   |                            Title                             |            Solution            | Note |
