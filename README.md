@@ -29,8 +29,8 @@
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python3](./Code/Q210/Q210.py) |   Medium   | topological order |
 | 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python3](./Code/Q212/Q212.py) |    Hard    |  Trie Tree & DFS  |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](./Code/Q301/Q301.py) |            |                   |
-| 322  |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Python3](./Code/Q312/Q312.py) |            |                   |
-|      |                                                              |                                |            |                   |
+| 322  |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Python3](./Code/Q322/Q322.py) |            |                   |
+| 329  | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Python3](./Code/Q329/Q329.py) |    Hard    |   Memory & DFS    |
 |      |                                                              |                                |            |                   |
 
 ### BFS
