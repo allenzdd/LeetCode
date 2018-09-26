@@ -6,6 +6,7 @@
 * [BFS](https://github.com/allenzdd/LeetCode#bfs)
 * [DP](https://github.com/allenzdd/LeetCode#dp)
 * [HashMap](https://github.com/allenzdd/LeetCode#hashmap)
+* [Tree](https://github.com/allenzdd/LeetCode#tree)
 * [Recursion](https://github.com/allenzdd/LeetCode#recursion)
 * [BackTrack](https://github.com/allenzdd/LeetCode#backtrack)
 * [Bit Manipulation](https://github.com/allenzdd/LeetCode#bitmanipulation)
@@ -26,6 +27,7 @@
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3](./Code/Q200/Q200.py) |            |                   |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3](./Code/Q207/Q207.py) |            |                   |
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python3](./Code/Q210/Q210.py) |   Medium   | topological order |
+| 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python3](./Code/Q212/Q212.py) |    Hard    |  Trie Tree & DFS  |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](./Code/Q301/Q301.py) |            |                   |
 | 322  |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Python3](./Code/Q312/Q312.py) |            |                   |
 |      |                                                              |                                |            |                   |
@@ -75,14 +77,14 @@
 
 ### Tree
 
-|  #   |                            Title                             |            Solution            | Difficulty | Note |
-| :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :--: |
-| 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python3](./Code/Q208/Q208.py) |   Medium   |      |
-|      |                                                              |                                |            |      |
-|      |                                                              |                                |            |      |
-|      |                                                              |                                |            |      |
-|      |                                                              |                                |            |      |
-|      |                                                              |                                |            |      |
+|  #   |                            Title                             |            Solution            | Difficulty |      Note       |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :-------------: |
+| 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python3](./Code/Q208/Q208.py) |   Medium   |    Trie Tree    |
+| 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python3](./Code/Q212/Q212.py) |    Hard    | Trie Tree & DFS |
+|      |                                                              |                                |            |                 |
+|      |                                                              |                                |            |                 |
+|      |                                                              |                                |            |                 |
+|      |                                                              |                                |            |                 |
 
 ### Recursion
 
