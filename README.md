@@ -132,14 +132,14 @@
 
 ### Array
 
-|  #   |                            Title                             |            Solution            | Note |
-| :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
-| 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python3](./Code/Q239/Q239.py) |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
+|  #   |                            Title                             |            Solution            | Difficulty | Note |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :--: |
+| 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python3](./Code/Q239/Q239.py) |            |      |
+| 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python3](./Code/Q350/Q350.py) |    Easy    |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
+|      |                                                              |                                |            |      |
 
 ###  Search
 
