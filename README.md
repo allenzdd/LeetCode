@@ -1,6 +1,6 @@
 # LeetCode
 
-## Alogrithm
+## Alogrithms
 
 * [DFS](https://github.com/allenzdd/LeetCode#dfs)
 * [BFS](https://github.com/allenzdd/LeetCode#bfs)
@@ -22,22 +22,22 @@
 
 |  #   |                            Title                             |            Solution            | Difficulty |       Note        |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :---------------: |
-|  46  | [Permutations](https://leetcode.com/problems/permutations/)  |  [Python3](./Code/Q46/Q46.py)  |            |                   |
-| 130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](./Code/Q130/Q130.py) |            |                   |
-| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3](./Code/Q200/Q200.py) |            |                   |
-| 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3](./Code/Q207/Q207.py) |            |                   |
-| 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python3](./Code/Q210/Q210.py) |   Medium   | topological order |
-| 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python3](./Code/Q212/Q212.py) |    Hard    |  Trie Tree & DFS  |
-| 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](./Code/Q301/Q301.py) |            |                   |
-| 322  |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Python3](./Code/Q322/Q322.py) |            |                   |
-| 329  | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Python3](./Code/Q329/Q329.py) |    Hard    |   Memory & DFS    |
+|  46  | [Permutations](https://leetcode.com/problems/permutations/)  |  [Python3](./Algorithms/Q46/Q46.py)  |            |                   |
+| 130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](./Algorithms/Q130/Q130.py) |            |                   |
+| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3](./Algorithms/Q200/Q200.py) |            |                   |
+| 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3](./Algorithms/Q207/Q207.py) |            |                   |
+| 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python3](./Algorithms/Q210/Q210.py) |   Medium   | topological order |
+| 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python3](./Algorithms/Q212/Q212.py) |    Hard    |  Trie Tree & DFS  |
+| 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](./Algorithms/Q301/Q301.py) |            |                   |
+| 322  |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Python3](./Algorithms/Q322/Q322.py) |            |                   |
+| 329  | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Python3](./Algorithms/Q329/Q329.py) |    Hard    |   Memory & DFS    |
 |      |                                                              |                                |            |                   |
 
 ### BFS
 
 |  #   |                            Title                             |            Solution            | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
-| 279  | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python3](./Code/Q279/Q279.py) |      |
+| 279  | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python3](./Algorithms/Q279/Q279.py) |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
@@ -48,16 +48,16 @@
 
 |  #   |                            Title                             |            Solution            | Difficulty | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :--: |
-| 139  |   [Word Break](https://leetcode.com/problems/word-break/)    | [Python3](./Code/Q139/Q139.py) |            |      |
-| 140  | [Word Break II](https://leetcode.com/problems/word-break-ii) | [Python3](./Code/Q140/Q140.py) |    Hard    |      |
-| 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [Python3](./Code/Q152/Q152.py) |            |      |
-| 198  |  [House Robber](https://leetcode.com/problems/house-robber)  | [Python3](./Code/Q198/Q198.py) |            |      |
-| 221  | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Python3](./Code/Q221/Q221.py) |            |      |
-| 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python3](./Code/Q309/Q309.py) |            |      |
-| 312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Python3](./Code/Q312/Q312.py) |            |      |
-| 322  |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Python3](./Code/Q312/Q312.py) |            |      |
-| 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python3](./Code/Q416/Q416.py) |            |      |
-| 494  |   [Target Sum](https://leetcode.com/problems/target-sum/)    | [Python3](./Code/Q494/Q494.py) |            |      |
+| 139  |   [Word Break](https://leetcode.com/problems/word-break/)    | [Python3](./Algorithms/Q139/Q139.py) |            |      |
+| 140  | [Word Break II](https://leetcode.com/problems/word-break-ii) | [Python3](./Algorithms/Q140/Q140.py) |    Hard    |      |
+| 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [Python3](./Algorithms/Q152/Q152.py) |            |      |
+| 198  |  [House Robber](https://leetcode.com/problems/house-robber)  | [Python3](./Algorithms/Q198/Q198.py) |            |      |
+| 221  | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Python3](./Algorithms/Q221/Q221.py) |            |      |
+| 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python3](./Algorithms/Q309/Q309.py) |            |      |
+| 312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Python3](./Algorithms/Q312/Q312.py) |            |      |
+| 322  |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Python3](./Algorithms/Q312/Q312.py) |            |      |
+| 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python3](./Algorithms/Q416/Q416.py) |            |      |
+| 494  |   [Target Sum](https://leetcode.com/problems/target-sum/)    | [Python3](./Algorithms/Q494/Q494.py) |            |      |
 |      |                                                              |                                |            |      |
 |      |                                                              |                                |            |      |
 |      |                                                              |                                |            |      |
@@ -68,19 +68,19 @@
 
 |  #   |                            Title                             |            Solution            | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
-| 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Python3](./Code/Q347/Q347.py) |      |
-| 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python3](./Code/Q416/Q416.py) |      |
-| 494  |   [Target Sum](https://leetcode.com/problems/target-sum/)    | [Python3](./Code/Q494/Q494.py) |      |
-| 560  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Python3](./Code/Q560/Q560.py) |      |
-| 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](./Code/Q621/Q621.py) |      |
+| 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Python3](./Algorithms/Q347/Q347.py) |      |
+| 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python3](./Algorithms/Q416/Q416.py) |      |
+| 494  |   [Target Sum](https://leetcode.com/problems/target-sum/)    | [Python3](./Algorithms/Q494/Q494.py) |      |
+| 560  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Python3](./Algorithms/Q560/Q560.py) |      |
+| 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](./Algorithms/Q621/Q621.py) |      |
 |      |                                                              |                                |      |
 
 ### Tree
 
 |  #   |                            Title                             |            Solution            | Difficulty |      Note       |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :-------------: |
-| 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python3](./Code/Q208/Q208.py) |   Medium   |    Trie Tree    |
-| 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python3](./Code/Q212/Q212.py) |    Hard    | Trie Tree & DFS |
+| 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python3](./Algorithms/Q208/Q208.py) |   Medium   |    Trie Tree    |
+| 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python3](./Algorithms/Q212/Q212.py) |    Hard    | Trie Tree & DFS |
 |      |                                                              |                                |            |                 |
 |      |                                                              |                                |            |                 |
 |      |                                                              |                                |            |                 |
@@ -90,7 +90,7 @@
 
 |  #   |                            Title                             |            Solution            | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
-| 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](./Code/Q301/Q301.py) |      |
+| 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](./Algorithms/Q301/Q301.py) |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
@@ -101,7 +101,7 @@
 
 |  #   |                            Title                             |            Solution            | Difficulty | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :--: |
-| 140  | [Word Break II](https://leetcode.com/problems/word-break-ii) | [Python3](./Code/Q140/Q140.py) |    Hard    |      |
+| 140  | [Word Break II](https://leetcode.com/problems/word-break-ii) | [Python3](./Algorithms/Q140/Q140.py) |    Hard    |      |
 |      |                                                              |                                |            |      |
 |      |                                                              |                                |            |      |
 |      |                                                              |                                |            |      |
@@ -112,7 +112,7 @@
 
 |  #   |                            Title                             |            Solution            | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
-| 169  | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python3](./Code/Q169/Q169.py) |      |
+| 169  | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python3](./Algorithms/Q169/Q169.py) |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
@@ -123,9 +123,9 @@
 
 |  #   |                            Title                             |            Solution            | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
-| 198  |  [House Robber](https://leetcode.com/problems/house-robber)  | [Python3](./Code/Q198/Q198.py) |      |
-| 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python3](./Code/Q309/Q309.py) |      |
-| 322  |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Python3](./Code/Q312/Q312.py) |      |
+| 198  |  [House Robber](https://leetcode.com/problems/house-robber)  | [Python3](./Algorithms/Q198/Q198.py) |      |
+| 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python3](./Algorithms/Q309/Q309.py) |      |
+| 322  |  [Coin Change](https://leetcode.com/problems/coin-change/)   | [Python3](./Algorithms/Q312/Q312.py) |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
@@ -134,8 +134,8 @@
 
 |  #   |                            Title                             |            Solution            | Difficulty | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :--: |
-| 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python3](./Code/Q239/Q239.py) |            |      |
-| 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python3](./Code/Q350/Q350.py) |    Easy    |      |
+| 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python3](./Algorithms/Q239/Q239.py) |            |      |
+| 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python3](./Algorithms/Q350/Q350.py) |    Easy    |      |
 |      |                                                              |                                |            |      |
 |      |                                                              |                                |            |      |
 |      |                                                              |                                |            |      |
@@ -145,11 +145,11 @@
 
 |  #   |                            Title                             |            Solution            |     Note      |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :-----------: |
-|  69  |       [Sqrt(x)](https://leetcode.com/problems/sqrtx/)        |  [Python3](./Code/Q69/Q69.py)  | Binary Search |
-| 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python3](./Code/Q162/Q162.py) | Binary Search |
-| 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python3](./Code/Q240/Q240.py) |               |
-| 283  |  [Move Zeroes](https://leetcode.com/problems/move-zeroes/)   | [Python3](./Code/Q283/Q283.py) |               |
-| 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python3](./Code/Q287/Q287.py) |               |
+|  69  |       [Sqrt(x)](https://leetcode.com/problems/sqrtx/)        |  [Python3](./Algorithms/Q69/Q69.py)  | Binary Search |
+| 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python3](./Algorithms/Q162/Q162.py) | Binary Search |
+| 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python3](./Algorithms/Q240/Q240.py) |               |
+| 283  |  [Move Zeroes](https://leetcode.com/problems/move-zeroes/)   | [Python3](./Algorithms/Q283/Q283.py) |               |
+| 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python3](./Algorithms/Q287/Q287.py) |               |
 |      |                                                              |                                |               |
 |      |                                                              |                                |               |
 |      |                                                              |                                |               |
@@ -158,8 +158,8 @@
 
 |  #   |                            Title                             |            Solution            | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
-| 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python3](./Code/Q287/Q287.py) |      |
-| 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](./Code/Q621/Q621.py) |      |
+| 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python3](./Algorithms/Q287/Q287.py) |      |
+| 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python3](./Algorithms/Q621/Q621.py) |      |
 |      |                                                              |                                |      |
 |      |                                                              |                                |      |
 
@@ -167,8 +167,8 @@
 
 |  #   |                            Title                             |            Solution            |       Note        |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :---------------: |
-| 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python3](./Code/Q210/Q210.py) | topological order |
-| 394  | [Decode String](https://leetcode.com/problems/decode-string/) | [Python3](./Code/Q394/Q394.py) |                   |
+| 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python3](./Algorithms/Q210/Q210.py) | topological order |
+| 394  | [Decode String](https://leetcode.com/problems/decode-string/) | [Python3](./Algorithms/Q394/Q394.py) |                   |
 |      |                                                              |                                |                   |
 |      |                                                              |                                |                   |
 |      |                                                              |                                |                   |
@@ -177,17 +177,17 @@
 
 |  #   |                            Title                             |            Solution            | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
-| 406  | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Python3](./Code/Q406/Q406.py) |      |
-| 581  | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Python3](./Code/Q581/Q581.py) |      |
-| 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python3](./Code/Q647/Q647.py) | Sort |
+| 406  | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Python3](./Algorithms/Q406/Q406.py) |      |
+| 581  | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Python3](./Algorithms/Q581/Q581.py) |      |
+| 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | [Python3](./Algorithms/Q647/Q647.py) | Sort |
 |      |                                                              |                                |      |
 
 ###  Others
 
 |  #   |                            Title                             |            Solution            | Note  |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :---: |
-| 438  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Python3](./Code/Q438/Q438.py) | AscII |
-| 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python3](./Code/Q448/Q448.py) | Array |
+| 438  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Python3](./Algorithms/Q438/Q438.py) | AscII |
+| 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Python3](./Algorithms/Q448/Q448.py) | Array |
 |      |                                                              |                                |       |
 |      |                                                              |                                |       |
 
