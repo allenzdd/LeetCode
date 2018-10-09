@@ -69,6 +69,7 @@
 
 |  #   |                            Title                             |               Solution               | Difficulty | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------------: | :--------: | :--: |
+|  21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |  [Python3](./Algorithms/Q21/Q21.py)  |    Easy    |      |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](./Algorithms/Q206/Q206.py) |    Easy    |      |
 |      |                                                              |                                      |            |      |
 |      |                                                              |                                      |            |      |
