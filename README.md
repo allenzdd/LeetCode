@@ -5,6 +5,7 @@
 * [DFS](https://github.com/allenzdd/LeetCode#dfs)
 * [BFS](https://github.com/allenzdd/LeetCode#bfs)
 * [DP](https://github.com/allenzdd/LeetCode#dp)
+* [List Node](https://github.com/allenzdd/LeetCode#listnode)
 * [HashMap](https://github.com/allenzdd/LeetCode#hashmap)
 * [Tree](https://github.com/allenzdd/LeetCode#tree)
 * [Recursion](https://github.com/allenzdd/LeetCode#recursion)
@@ -63,6 +64,17 @@
 |      |                                                              |                                |            |      |
 |      |                                                              |                                |            |      |
 |      |                                                              |                                |            |      |
+
+### ListNode
+
+|  #   |                            Title                             |               Solution               | Difficulty | Note |
+| :--: | :----------------------------------------------------------: | :----------------------------------: | :--------: | :--: |
+| 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](./Algorithms/Q206/Q206.py) |    Easy    |      |
+|      |                                                              |                                      |            |      |
+|      |                                                              |                                      |            |      |
+|      |                                                              |                                      |            |      |
+|      |                                                              |                                      |            |      |
+|      |                                                              |                                      |            |      |
 
 ### HashMap
 
