@@ -69,7 +69,10 @@
 
 |  #   |                            Title                             |               Solution               | Difficulty | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------------: | :--------: | :--: |
+|  2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |   [Python3](./Algorithms/Q2/Q2.py)   |   Medium   |      |
+|  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  [Python3](./Algorithms/Q19/Q19.py)  |   Medium   |      |
 |  21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |  [Python3](./Algorithms/Q21/Q21.py)  |    Easy    |      |
+|  24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |  [Python3](./Algorithms/Q24/Q24.py)  |   Medium   |      |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](./Algorithms/Q206/Q206.py) |    Easy    |      |
 |      |                                                              |                                      |            |      |
 |      |                                                              |                                      |            |      |
