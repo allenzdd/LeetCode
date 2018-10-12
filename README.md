@@ -24,6 +24,7 @@
 |  #   |                            Title                             |            Solution            | Difficulty |       Note        |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :---------------: |
 |  46  | [Permutations](https://leetcode.com/problems/permutations/)  |  [Python3](./Algorithms/Q46/Q46.py)  |            |                   |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](./Algorithms/Q102/Q102.py) | Medium | |
 | 130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](./Algorithms/Q130/Q130.py) |            |                   |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3](./Algorithms/Q200/Q200.py) |            |                   |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3](./Algorithms/Q207/Q207.py) |            |                   |
@@ -95,6 +96,8 @@
 
 |  #   |                            Title                             |            Solution            | Difficulty |      Note       |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :-------------: |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python3](./Algorithms/Q98/Q98.py) | Medium |  |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](./Algorithms/Q102/Q102.py) | Medium |  |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python3](./Algorithms/Q208/Q208.py) |   Medium   |    Trie Tree    |
 | 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python3](./Algorithms/Q212/Q212.py) |    Hard    | Trie Tree & DFS |
 |      |                                                              |                                |            |                 |
@@ -104,14 +107,15 @@
 
 ### Recursion
 
-|  #   |                            Title                             |            Solution            | Note |
-| :--: | :----------------------------------------------------------: | :----------------------------: | :--: |
-| 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](./Algorithms/Q301/Q301.py) |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
-|      |                                                              |                                |      |
+|  #   |                            Title                             |            Solution            | Difficulty | Note |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :--: | ---- |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python3](./Algorithms/Q98/Q98.py) | Medium |  |
+| 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](./Algorithms/Q301/Q301.py) |      |      |
+|      |                                                              |                                |      |      |
+|      |                                                              |                                |      |      |
+|      |                                                              |                                |      |      |
+|      |                                                              |                                |      |      |
+|      |                                                              |                                |      |      |
 
 ### BackTrack
 
