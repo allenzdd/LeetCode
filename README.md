@@ -24,6 +24,7 @@
 |  #   |                            Title                             |            Solution            | Difficulty |       Note        |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :---------------: |
 |  46  | [Permutations](https://leetcode.com/problems/permutations/)  |  [Python3](./Algorithms/Q46/Q46.py)  |            |                   |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python3](./Algorithms/Q101/Q101.py) | Easy | |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](./Algorithms/Q102/Q102.py) | Medium | |
 | 130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](./Algorithms/Q130/Q130.py) |            |                   |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3](./Algorithms/Q200/Q200.py) |            |                   |
@@ -100,6 +101,8 @@
 |  #   |                            Title                             |            Solution            | Difficulty |      Note       |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :-------------: |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python3](./Algorithms/Q98/Q98.py) | Medium |  |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python3](./Algorithms/Q100/Q100.py) | Easy |  |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python3](./Algorithms/Q101/Q101.py) | Easy |  |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](./Algorithms/Q102/Q102.py) | Medium |  |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python3](./Algorithms/Q104/Q104.py) | Easy |  |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python3](./Algorithms/Q208/Q208.py) |   Medium   |    Trie Tree    |
@@ -114,6 +117,7 @@
 |  #   |                            Title                             |            Solution            | Difficulty | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: | ---- |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python3](./Algorithms/Q98/Q98.py) | Medium |  |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python3](./Algorithms/Q100/Q100.py) | Easy |  |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python3](./Algorithms/Q104/Q104.py) | Easy |  |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](./Algorithms/Q301/Q301.py) |      |      |
 |      |                                                              |                                |      |      |
