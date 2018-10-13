@@ -107,6 +107,7 @@
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python3](./Algorithms/Q104/Q104.py) | Easy |  |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python3](./Algorithms/Q208/Q208.py) |   Medium   |    Trie Tree    |
 | 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python3](./Algorithms/Q212/Q212.py) |    Hard    | Trie Tree & DFS |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python3](./Algorithms/Q543/Q543.py) | Easy |  |
 |      |                                                              |                                |            |                 |
 |      |                                                              |                                |            |                 |
 |      |                                                              |                                |            |                 |
@@ -120,7 +121,7 @@
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python3](./Algorithms/Q100/Q100.py) | Easy |  |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python3](./Algorithms/Q104/Q104.py) | Easy |  |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](./Algorithms/Q301/Q301.py) |      |      |
-|      |                                                              |                                |      |      |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python3](./Algorithms/Q543/Q543.py) | Easy |      |
 |      |                                                              |                                |      |      |
 |      |                                                              |                                |      |      |
 |      |                                                              |                                |      |      |
