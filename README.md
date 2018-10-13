@@ -73,7 +73,10 @@
 |  2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |   [Python3](./Algorithms/Q2/Q2.py)   |   Medium   |      |
 |  19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  [Python3](./Algorithms/Q19/Q19.py)  |   Medium   |      |
 |  21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |  [Python3](./Algorithms/Q21/Q21.py)  |    Easy    |      |
+|  23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |  [Python3](./Algorithms/Q23/Q23.py)  |    Hard    |      |
 |  24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |  [Python3](./Algorithms/Q24/Q24.py)  |   Medium   |      |
+| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Python3](./Algorithms/Q141/Q141.py) |    Easy    |      |
+| 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python3](./Algorithms/Q142/Q142.py) |   Medium   |      |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](./Algorithms/Q206/Q206.py) |    Easy    |      |
 |      |                                                              |                                      |            |      |
 |      |                                                              |                                      |            |      |
@@ -98,6 +101,7 @@
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :-------------: |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python3](./Algorithms/Q98/Q98.py) | Medium |  |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](./Algorithms/Q102/Q102.py) | Medium |  |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python3](./Algorithms/Q104/Q104.py) | Easy |  |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python3](./Algorithms/Q208/Q208.py) |   Medium   |    Trie Tree    |
 | 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python3](./Algorithms/Q212/Q212.py) |    Hard    | Trie Tree & DFS |
 |      |                                                              |                                |            |                 |
@@ -110,6 +114,7 @@
 |  #   |                            Title                             |            Solution            | Difficulty | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--: | ---- |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python3](./Algorithms/Q98/Q98.py) | Medium |  |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python3](./Algorithms/Q104/Q104.py) | Easy |  |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](./Algorithms/Q301/Q301.py) |      |      |
 |      |                                                              |                                |      |      |
 |      |                                                              |                                |      |      |
@@ -163,16 +168,17 @@
 
 ###  Search
 
-|  #   |                            Title                             |            Solution            |     Note      |
-| :--: | :----------------------------------------------------------: | :----------------------------: | :-----------: |
-|  69  |       [Sqrt(x)](https://leetcode.com/problems/sqrtx/)        |  [Python3](./Algorithms/Q69/Q69.py)  | Binary Search |
-| 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python3](./Algorithms/Q162/Q162.py) | Binary Search |
-| 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python3](./Algorithms/Q240/Q240.py) |               |
-| 283  |  [Move Zeroes](https://leetcode.com/problems/move-zeroes/)   | [Python3](./Algorithms/Q283/Q283.py) |               |
-| 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python3](./Algorithms/Q287/Q287.py) |               |
-|      |                                                              |                                |               |
-|      |                                                              |                                |               |
-|      |                                                              |                                |               |
+|  #   |                            Title                             |            Solution            |     Difficulty     |     Note      |
+| :--: | :----------------------------------------------------------: | :----------------------------: | :-----------: | ------------- |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python3](./Algorithms/Q23/Q23.py) | Hard | Binary Search |
+|  69  |       [Sqrt(x)](https://leetcode.com/problems/sqrtx/)        |  [Python3](./Algorithms/Q69/Q69.py)  |  | Binary Search |
+| 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python3](./Algorithms/Q162/Q162.py) |  | Binary Search |
+| 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python3](./Algorithms/Q240/Q240.py) |               |               |
+| 283  |  [Move Zeroes](https://leetcode.com/problems/move-zeroes/)   | [Python3](./Algorithms/Q283/Q283.py) |               |               |
+| 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python3](./Algorithms/Q287/Q287.py) |               |               |
+|      |                                                              |                                |               |               |
+|      |                                                              |                                |               |               |
+|      |                                                              |                                |               |               |
 
 ### Math
 
