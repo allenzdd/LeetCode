@@ -78,6 +78,7 @@
 |  24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |  [Python3](./Algorithms/Q24/Q24.py)  |   Medium   |      |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Python3](./Algorithms/Q141/Q141.py) |    Easy    |      |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python3](./Algorithms/Q142/Q142.py) |   Medium   |      |
+| 148  |    [Sort List](https://leetcode.com/problems/sort-list/)     | [Python3](./Algorithms/Q148/Q148.py) |   Medium   |      |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](./Algorithms/Q206/Q206.py) |    Easy    |      |
 |      |                                                              |                                      |            |      |
 |      |                                                              |                                      |            |      |
@@ -120,6 +121,7 @@
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python3](./Algorithms/Q98/Q98.py) | Medium |  |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python3](./Algorithms/Q100/Q100.py) | Easy |  |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python3](./Algorithms/Q104/Q104.py) | Easy |  |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Python3](./Algorithms/Q148/Q148.py) | Medium |  |
 | 301  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Python3](./Algorithms/Q301/Q301.py) |      |      |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python3](./Algorithms/Q543/Q543.py) | Easy |      |
 |      |                                                              |                                |      |      |
