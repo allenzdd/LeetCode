@@ -26,6 +26,7 @@
 |  46  | [Permutations](https://leetcode.com/problems/permutations/)  |  [Python3](./Algorithms/Q46/Q46.py)  |            |                   |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python3](./Algorithms/Q101/Q101.py) | Easy | |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](./Algorithms/Q102/Q102.py) | Medium | |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python3](./Algorithms/Q124/Q124.py) | Hard | |
 | 130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python3](./Algorithms/Q130/Q130.py) |            |                   |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python3](./Algorithms/Q200/Q200.py) |            |                   |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3](./Algorithms/Q207/Q207.py) |            |                   |
@@ -80,7 +81,7 @@
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python3](./Algorithms/Q142/Q142.py) |   Medium   |      |
 | 148  |    [Sort List](https://leetcode.com/problems/sort-list/)     | [Python3](./Algorithms/Q148/Q148.py) |   Medium   |      |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](./Algorithms/Q206/Q206.py) |    Easy    |      |
-|      |                                                              |                                      |            |      |
+| 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python3](./Algorithms/Q234/Q234.py) |    Easy    |      |
 |      |                                                              |                                      |            |      |
 |      |                                                              |                                      |            |      |
 |      |                                                              |                                      |            |      |
@@ -106,6 +107,7 @@
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python3](./Algorithms/Q101/Q101.py) | Easy |  |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python3](./Algorithms/Q102/Q102.py) | Medium |  |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python3](./Algorithms/Q104/Q104.py) | Easy |  |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python3](./Algorithms/Q124/Q124.py) | Hard |  |
 | 208  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python3](./Algorithms/Q208/Q208.py) |   Medium   |    Trie Tree    |
 | 212  | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python3](./Algorithms/Q212/Q212.py) |    Hard    | Trie Tree & DFS |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python3](./Algorithms/Q543/Q543.py) | Easy |  |
