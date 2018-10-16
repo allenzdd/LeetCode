@@ -80,6 +80,7 @@
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Python3](./Algorithms/Q141/Q141.py) |    Easy    |      |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python3](./Algorithms/Q142/Q142.py) |   Medium   |      |
 | 148  |    [Sort List](https://leetcode.com/problems/sort-list/)     | [Python3](./Algorithms/Q148/Q148.py) |   Medium   |      |
+| 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python3](./Algorithms/Q160/Q160.py) |    Easy    |      |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python3](./Algorithms/Q206/Q206.py) |    Easy    |      |
 | 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python3](./Algorithms/Q234/Q234.py) |    Easy    |      |
 |      |                                                              |                                      |            |      |
