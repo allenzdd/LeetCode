@@ -182,7 +182,9 @@
 
 |  #   |                            Title                             |            Solution            |     Difficulty     |     Note      |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :-----------: | ------------- |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python3](./Algorithms/Q4/Q4.py) | Hard | Binary Search |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python3](./Algorithms/Q23/Q23.py) | Hard | Binary Search |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python3](./Algorithms/Q33/Q33.py) | Medium | Binary Search |
 |  69  |       [Sqrt(x)](https://leetcode.com/problems/sqrtx/)        |  [Python3](./Algorithms/Q69/Q69.py)  |  | Binary Search |
 | 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python3](./Algorithms/Q162/Q162.py) |  | Binary Search |
 | 240  | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python3](./Algorithms/Q240/Q240.py) |               |               |
