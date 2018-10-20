@@ -12,11 +12,10 @@ class Solution:
         rest = 0
         for x in prices:
             pre_sold = sold            
+            hold = max(hold, rest - x)  
             sold = hold + x
-            hold = max(hold, rest - x)
             rest = max(rest, pre_sold)
         return max(rest, sold)
-
 
 
 # # Basic DP
@@ -37,5 +36,6 @@ class Solution:
 #             rest[i] = max(rest[i-1], sold[i-1])
 #         return max(sold[-1], rest[-1])
 
-prices = [1,2,3,0,2]
-print(Solution().maxProfit(prices))
+if __name__ == "__main__":
+    prices = [1,2,3,0,2]
+    print(Solution().maxProfit(prices))

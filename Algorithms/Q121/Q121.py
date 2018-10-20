@@ -11,15 +11,16 @@ class Solution:
 
             res = max(res, sell_temp - min_buy)
 
-            if min_buy > sell_temp:
-                min_buy = sell_temp
+            min_buy = min(min_buy, sell_temp)
+            # if min_buy > sell_temp:
+            #     min_buy = sell_temp
 
         return res
 
-
-# prices = [7, 1, 5, 3, 6, 4]
-prices = [1, 2]
-print(Solution().maxProfit(prices))
+if __name__ == "__main__":
+    # prices = [7, 1, 5, 3, 6, 4]
+    prices = [1, 2]
+    print(Solution().maxProfit(prices))
 
 
 # # TLE

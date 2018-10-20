@@ -52,6 +52,7 @@
 
 |  #   |                            Title                             |            Solution            | Difficulty | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :--: |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./Algorithms/Q121/Q121.py) | Easy |  |
 | 139  |   [Word Break](https://leetcode.com/problems/word-break/)    | [Python3](./Algorithms/Q139/Q139.py) |            |      |
 | 140  | [Word Break II](https://leetcode.com/problems/word-break-ii) | [Python3](./Algorithms/Q140/Q140.py) |    Hard    |      |
 | 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [Python3](./Algorithms/Q152/Q152.py) |            |      |
