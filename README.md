@@ -52,6 +52,7 @@
 
 |  #   |                            Title                             |            Solution            | Difficulty | Note |
 | :--: | :----------------------------------------------------------: | :----------------------------: | :--------: | :--: |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Python3](./Algorithms/Q5/Q5.py) | Medium | Manacher Algorithm |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python3](./Algorithms/Q121/Q121.py) | Easy |  |
 | 139  |   [Word Break](https://leetcode.com/problems/word-break/)    | [Python3](./Algorithms/Q139/Q139.py) |            |      |
 | 140  | [Word Break II](https://leetcode.com/problems/word-break-ii) | [Python3](./Algorithms/Q140/Q140.py) |    Hard    |      |
